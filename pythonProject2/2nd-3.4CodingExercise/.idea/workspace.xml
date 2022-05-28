@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="198b9f1f-305f-40d2-badb-6997cfc237e1" name="Changes" comment="" />
+    <list default="true" id="1074d9be-6fc8-4662-bcc3-41e501014c56" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../pythonProject2/ 2nd-2.8CodingExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pythonProject2/ 2nd-2.8CodingExercise/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +15,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="29mmuItmcauBCoygLxpND64Qvun" />
+  <component name="ProjectId" id="29mo9dc3T4FKpLepALxf0NEoCT2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,18 +29,18 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name=" 2nd-2.8CodingExercise" />
+      <module name="2nd-3.4CodingExercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../pythonProject2/ 2nd-2.8CodingExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../pythonProject2/2nd-3.4CodingExercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../pythonProject2/ 2nd-2.8CodingExercise/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../pythonProject2/2nd-3.4CodingExercise/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,11 +53,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="198b9f1f-305f-40d2-badb-6997cfc237e1" name="Changes" comment="" />
-      <created>1653726857555</created>
+      <changelist id="1074d9be-6fc8-4662-bcc3-41e501014c56" name="Changes" comment="" />
+      <created>1653727471877</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1653726857555</updated>
+      <updated>1653727471877</updated>
     </task>
     <servers />
   </component>
